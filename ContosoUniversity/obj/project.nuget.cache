@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "j7tmwoAyWBbyQ5/X9B8FYN4l5qnHsvkqg+0O7ltdQ+kxlvVe5ttNP5Eg04zRrB4hap2VsYV6FsrYNIberh+Fxw==",
+  "dgSpecHash": "WSlYek+bSBUj5zU3WGQIfzKyp+Qo0/0WwnzWTpq5eSy7lIc77fNwa8QeLr2VT5CV++j+FTMspl4Q29GXtAt8Sw==",
   "success": true,
   "projectFilePath": "/Users/hikarinet/Projects/ContosoUniversity/ContosoUniversity/ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "/Users/hikarinet/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/hikarinet/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/6.0.22/microsoft.aspnetcore.diagnostics.entityframeworkcore.6.0.22.nupkg.sha512",
     "/Users/hikarinet/.nuget/packages/microsoft.entityframeworkcore/6.0.22/microsoft.entityframeworkcore.6.0.22.nupkg.sha512",
     "/Users/hikarinet/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.22/microsoft.entityframeworkcore.abstractions.6.0.22.nupkg.sha512",
     "/Users/hikarinet/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.22/microsoft.entityframeworkcore.analyzers.6.0.22.nupkg.sha512",

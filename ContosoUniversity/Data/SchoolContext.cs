@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 namespace ContosoUniversity.Data
 {
-	public interface SchoolContext : DbContext
+	public class SchoolContext : DbContext
 	{
 		public SchoolContext(DbContextOptions<SchoolContext> options) : base(options)
 		{
