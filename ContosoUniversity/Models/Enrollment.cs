@@ -12,11 +12,13 @@ namespace ContosoUniversity.Models
 		public int CourseID { get; set; }
 		//外部キー
 		public int StudentID { get; set; }
-		public Grade? Grade {get; set;}
+
+		public Grade? Grade { get; set; } = null!;
+
 		//ナビゲーションプロパティ
-		public Course Course { get; set; }
+		public Course Course { get; set; } = null!;
 		//ナビゲーションプロパティ
-		public Student Student { get; set; }
+		public Student Student { get; set; } = null!;
 	}
 }
 
