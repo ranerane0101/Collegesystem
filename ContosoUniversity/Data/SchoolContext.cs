@@ -10,9 +10,9 @@ namespace ContosoUniversity.Data
 
 		}
 
-		public DbSet<Course> Couses { get; set; }
-		public DbSet<Enrollment> Enrollments { get; set; }
-		public DbSet<Student> Students { get; set; }
+		public DbSet<Course> Courses { get; set; } = null!;
+		public DbSet<Enrollment> Enrollments { get; set; } = null!;
+		public DbSet<Student> Students { get; set; } = null!;
 
 		protected override void OnModelCreating(ModelBuilder modelBuilder)
 		{
